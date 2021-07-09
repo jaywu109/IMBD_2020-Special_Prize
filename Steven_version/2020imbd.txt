@@ -1,0 +1,31 @@
+From train data
+
+Input C_096 分類問題(3類)
+
+Input C_58 regression 
+Input C_57 regression
+Input C_50 regression 
+Input C_49 regression
+Input C_46 regression 
+
+Input C_13 regression or 分類問題(0.004 / 0.005 /0.006 /0.007 /0.008 其中 0.004/0.005占大多數)
+
+
+Input A6_24 接近 regression 
+Input A6_19 接近 regression (值都是負的)
+Input A6_11 接近 regression (值都是正的)
+
+Input A6_001 可能輸入的參數很少
+
+Input A3_18 接近 regression
+Input A3_17 接近 regression
+Input A3_16 接近 regression
+Input A3_15 接近 regression
+Input A3_13 接近 regression(都是偶數)
+
+Input A2_24 接近 regression
+Input A2_17 接近 regression
+Input A2_16 接近 regression
+
+Input A1_20 接近 regression
+----------------------------------------------------------------------------------------------------------
